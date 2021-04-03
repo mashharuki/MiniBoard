@@ -1,0 +1,1 @@
+{"id":"haruki","msg":"テスト"}¥n{"id":"haruki","msg":"マシュマロ"}¥n{"msg":""}¥n
